@@ -100,4 +100,4 @@ If you need a more customized documentation page or pattern library (which is of
 
 Be sure to leave your own #protips in the comments below!
 
-{% include threexthree.html %}
+{% include post-parts/threexthree.html %}

@@ -127,4 +127,4 @@ CSS Output
 
 For further reading, [this](http://photoblogstop.com/photoshop/photoshop-blend-modes-explained) article is an excellent resource on how blend modes work.
 
-{% include css-effects.html %}
+{% include post-parts/css-effects.html %}

@@ -203,4 +203,4 @@ for demonstration purposes */
 
 **tl;dr: Vignettes are easy to implement and more realistic with gradients than box shadows. Colors are always fun, too.**
 
-{% include css-effects.html %}
+{% include post-parts/css-effects.html %}
